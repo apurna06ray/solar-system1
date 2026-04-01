@@ -47,3 +47,7 @@ form/
 📜 License
 
 This project is open-source and free to use for learning and personal projects.
+
+---
+## 🤖 AI Declaration
+This project’s README and documentation were assisted by ChatGPT. All code and animations are created by me[Apurna Ray].
